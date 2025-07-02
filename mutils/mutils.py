@@ -29,7 +29,7 @@ def get_histogram(data, normalize=False, bins="auto", x_range=None):
 
     Returns
     -------
-    bin_cetners : 1-D numpy.array
+    bin_centers : 1-D numpy.array
         Array of the bin center values
     bin_heights : 1-D numpy.array
         Array of the bin height values
