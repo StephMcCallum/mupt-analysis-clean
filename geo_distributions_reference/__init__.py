@@ -3,3 +3,5 @@
 
 __author__ = 'Joe Laforet Jr.'
 __email__ = 'jola3134@colorado.edu'
+
+from mutils.mutils import get_histogram
